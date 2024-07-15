@@ -2,7 +2,7 @@
 
 **O que é HidroAPP?**
 
-HidroAPP é um projeto de software livre que visa auxiliar na gestão de recursos hídricos. O projeto oferece um conjunto de ferramentas para coleta, análise e visualização de dados relacionados à água.
+HidroAPP é um projeto de software livre que visa auxiliar na gestão de recursos hídricos e no gerenciamento de hortas hidropônicas. O projeto oferece um conjunto de ferramentas para coleta, análise e visualização de dados relacionados à água, bem como uma interface para monitoramento e controle de hortas hidropônicas, executando em ESP32.
 
 **Funcionalidades:**
 
@@ -10,12 +10,14 @@ HidroAPP é um projeto de software livre que visa auxiliar na gestão de recurso
 * **Análise de Dados:** Identificação de padrões e tendências para suportar decisões informadas.
 * **Visualização de Dados:** Representação gráfica e geoespacial dos dados em gráficos e mapas.
 * **Relatórios e Dashboards:** Geração de relatórios detalhados e painéis de controle interativos.
+* **Monitoramento e Controle de Hortas Hidropônicas:** Interface para monitorar e controlar o ambiente, incluindo pH e nutrientes, executando em ESP32.
 
 **Benefícios:**
 
-* **Tomada de Decisões Informadas:** Facilita a gestão eficiente dos recursos hídricos.
+* **Tomada de Decisões Informadas:** Facilita a gestão eficiente dos recursos hídricos e hortas hidropônicas.
 * **Monitoramento da Qualidade da Água:** Permite o acompanhamento contínuo da qualidade da água.
 * **Preservação de Recursos:** Contribui para a preservação sustentável dos recursos hídricos.
+* **Gestão de Hortas Hidropônicas:** Ideal para entusiastas que desejam monitorar e controlar seus cultivos hidropônicos de forma eficiente.
 
 **Como Usar o HidroAPP:**
 
